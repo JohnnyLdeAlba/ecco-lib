@@ -13,7 +13,7 @@ A graphics extraction library for the Ecco the Dolphin series.
 
 The data directory contains save states from Ecco the Dolphin and Ecco 2.
 Currently, EccoLib does not have a means to decompress tiles and other data which are needed to assemble
-Level Maps and Stage Sprites. To remedy this issue, a folder with save states is provided with all
+Level Maps, Stage Sprites and other data. To remedy this issue, a folder with save states is provided with all
 the data already compressed. Support for decompressors will be added soon.
 
 # Todo
