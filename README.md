@@ -4,10 +4,10 @@ A graphics extraction library for the Ecco the Dolphin series.
 
 # Supported Games
 
-- Ecco the Dolphin - Palettes, Tiles, Blocks, Sprites, Stage Sprites and Level Maps.
-- Ecco the Dolphin PC - Palettes, Tiles, Blocks, Sprites and Level Maps.
-- Ecco 2: The Tides of Time - Palettes, Blocks, Sprites, Stage Sprites and Level Maps.
-- Ecco Jr - Palettes, Blocks, Sprites and Level Maps.
+- Ecco the Dolphin - Palettes, Tiles, Blocks, Sprites, Stage Sprites and Level Maps
+- Ecco the Dolphin PC - Palettes, Tiles, Blocks, Sprites and Level Maps
+- Ecco 2: The Tides of Time - Palettes, Blocks, Sprites, Stage Sprites and Level Maps
+- Ecco Jr - Palettes, Tiles, Blocks, Sprites and Level Maps
 
 # What's the Purpose of the data Directory?
 
