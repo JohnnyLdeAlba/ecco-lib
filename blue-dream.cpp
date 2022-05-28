@@ -205,7 +205,7 @@ int WINAPI WinMain
 	// returns a bitmap with the level map
 
 	// t_bitmap *source = plz_extract_stage_map("BIGSHIP.PLZ", 0, 0, 0, 0, PLZ_FOREGROUND);
-	t_bitmap *source = ecco2_extract_stage_map(ECCOJR_US_ROM, JR_VENTSOFPEARL, 0,0,800,800, EC_FOREGROUND);
+	t_bitmap *source = ecco2_extract_stage_map(ECCO2_US_ROM, E2_TRELLIASBAY, 0,0,800,800, EC_FOREGROUND);
 
 	// copies level map data to the display bitmap
 

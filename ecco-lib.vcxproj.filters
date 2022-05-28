@@ -21,9 +21,6 @@
     <ClInclude Include="blue-dream.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="blue-dream-00.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="common.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -54,6 +51,9 @@
     <ClInclude Include="w_interface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="blue-dream-00.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="bitmap.cpp">
@@ -63,15 +63,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="core.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="core-00.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="core-01.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="e2_level_format.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ecco-1-stage.cpp">
@@ -92,9 +83,6 @@
     <ClCompile Include="ecco-sprite-local.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="etd_format.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="language.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -105,9 +93,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="plot.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="plot-00.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="register.cpp">

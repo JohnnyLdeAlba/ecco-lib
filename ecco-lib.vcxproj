@@ -118,8 +118,9 @@
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
-      <SubSystem>Console</SubSystem>
+      <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;d2d1.lib;windowscodecs.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -156,21 +157,16 @@
   <ItemGroup>
     <ClCompile Include="bitmap.cpp" />
     <ClCompile Include="blue-dream.cpp" />
-    <ClCompile Include="core-00.cpp" />
-    <ClCompile Include="core-01.cpp" />
     <ClCompile Include="core.cpp" />
-    <ClCompile Include="e2_level_format.cpp" />
     <ClCompile Include="ecco-1-stage.cpp" />
     <ClCompile Include="ecco-2-stage.cpp" />
     <ClCompile Include="ecco-block.cpp" />
     <ClCompile Include="ecco-pc-stage.cpp" />
     <ClCompile Include="ecco-sprite-global.cpp" />
     <ClCompile Include="ecco-sprite-local.cpp" />
-    <ClCompile Include="etd_format.cpp" />
     <ClCompile Include="language.cpp" />
     <ClCompile Include="lstring.cpp" />
     <ClCompile Include="megadrive.cpp" />
-    <ClCompile Include="plot-00.cpp" />
     <ClCompile Include="plot.cpp" />
     <ClCompile Include="register.cpp" />
     <ClCompile Include="utilities.cpp" />
