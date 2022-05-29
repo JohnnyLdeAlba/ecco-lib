@@ -2,6 +2,13 @@
 
 A graphics extraction library for the Ecco the Dolphin series.
 
+# Requirements
+
+The below libraries are only necessary for displaying and outputting images to PNG files.
+
+- Direct2D (d2d1.lib)
+- Windows Imaging Component (windowscodecs.lib)
+
 # Supported Games
 
 - Ecco the Dolphin - Palettes, Tiles, Blocks, Sprites, Stage Sprites and Level Maps
@@ -12,7 +19,7 @@ A graphics extraction library for the Ecco the Dolphin series.
 # What's the Purpose of the data Directory?
 
 The data directory contains save states from Ecco the Dolphin and Ecco 2.
-Currently, EccoLib does not have a means to decompress tiles and other data which are needed to assemble
+Currently EccoLib does not have a means to decompress tiles and other data which are needed to assemble
 Level Maps, Stage Sprites and other data. To remedy this issue, a folder with save states is provided with all
 the data already compressed. Support for decompressors will be added soon.
 
