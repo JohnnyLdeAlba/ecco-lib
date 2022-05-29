@@ -31,3 +31,7 @@ the data already compressed. Support for decompressors will be added soon.
 - Add tile and block decompressors for Ecco the Dolphin.
 - Add tile and level data decompressors for Ecco 2: The Tides of Time.
 - Add stage sprite extraction support for Ecco PC.
+
+# Special Thanks
+
+I would like to thank Leia Ivon Flame of RedDashGames whose research contributed toward the creation of the extraction tool that generated the Ecco PC Level Maps.
