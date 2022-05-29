@@ -21,9 +21,9 @@ The below libraries are only necessary for displaying and outputting images to P
 
 # What's the Purpose of the data Directory?
 
-The data directory contains save states from Ecco the Dolphin and Ecco 2.
-Currently EccoLib does not have a means to decompress tiles and other data which are needed to assemble
-Level Maps, Stage Sprites and other data. To remedy this issue, a folder with save states is provided with all
+The `data` directory contains save states from Ecco the Dolphin and Ecco 2.
+Currently EccoLib does not support decompressors needed for tiles and other data.
+To remedy this issue, the `data` folder with save states is provided with all
 the data already compressed. Support for decompressors will be added soon.
 
 # Todo
