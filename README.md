@@ -23,7 +23,7 @@ The below libraries are only necessary for displaying and outputting images to P
 
 The `data` directory contains save states from Ecco the Dolphin and Ecco 2.
 Currently EccoLib does not support decompressors needed for tiles and other data.
-To remedy this issue, the `data` folder with save states is provided with all
+To remedy this issue, the `data` folder is provided with save states with all
 the data already compressed. Support for decompressors will be added soon.
 
 # Todo
