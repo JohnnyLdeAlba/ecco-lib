@@ -2,6 +2,9 @@
 
 A graphics extraction library for the Ecco the Dolphin series.
 
+<img src="https://raw.githubusercontent.com/JohnnyLdeAlba/ecco-lib/main/vortex-hybrid.png" alt="" style="width: 40%;" /> <img src="https://raw.githubusercontent.com/JohnnyLdeAlba/ecco-lib/main/deep-ridge.png" alt="" style="width: 40%;" />
+
+
 # Requirements
 
 The below libraries are only necessary for displaying and outputting images to PNG files.
