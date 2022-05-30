@@ -36,6 +36,6 @@ the data already compressed. Support for decompressors will be added soon.
 
 I would like to thank Leia Ivon Flame of RedDashGames whose research contributed toward the creation of the extraction tool that generated the Ecco PC Level Maps.
 
-# Sample Galleries of Images Extracted with this Library
+# Galleries with Images Extracted Using this Library
 - [Ecco 2: The Tides of Time Sprites](https://eccothedolphin.online/ecco-2-the-tides-of-time/sprites)
 - [Ecco 2: The Tides of Time Level Maps](https://eccothedolphin.online/ecco-2-the-tides-of-time/level-maps)
